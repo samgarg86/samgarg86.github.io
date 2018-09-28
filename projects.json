@@ -1,0 +1,99 @@
+[
+    {
+        "link": "http://vertu.com",
+        "type": "web",
+        "title": "Vertu - luxury handmade mobile phones",
+        "thumb": "img/portfolio/vertu-thumb.png",
+        "image": "img/portfolio/vertu.jpg",
+        "description": "I was part of the project doing front-end and e-commerce development for Vertu - a British luxury mobile phones manufacturer. Along with a steller team of designers and UX, we built a pixel-perfect mobile-first retina ready website",
+        "client": "Bestseller",
+        "date": "2015"
+    },
+    {
+        "link": "http://only.com/?forcecountry=GB&redirected=1/",
+        "type": "web",
+        "title": "BESTSELLER.COM Brands",
+        "thumb": "img/portfolio/bestseller-thumb.png",
+        "images": [
+            {"src": "img/portfolio/only.png", "class": "portfolio-img"},
+            {"src": "img/portfolio/only-zoom.png", "class": "portfolio-img"}
+        ],
+        "description": "E-commerce web development for bestseller's 17 worldwide brands",
+        "client": "Bestseller",
+        "date": "2015"
+    },
+    {
+        "link": "http://votion.co",
+        "type": "web",
+        "title": "Votion Interactive Widgets",
+        "thumb": "img/portfolio/votion-thumb-1.jpeg",
+        "images": [
+            {"src": "img/portfolio/votion-matchup.jpeg", "class": "portfolio-img col-md-6"},
+            {"src": "img/portfolio/votion-stackup.jpeg", "class": "portfolio-img col-md-6"},
+            {"src": "img/portfolio/votion-home.jpeg", "class": "portfolio-img"}
+        ],
+        "description": "UI/UX direction and front-end web development for a silicon valley startup. Votion is an interactive content platform, a set of very engaging online widgets for businesses to easily setup interactive marketing campaigns. I gave their website a face-lift, and also helped re-design some of their widgets.",
+        "client": "Votion",
+        "date": "2016"
+    },
+    {
+        "link": "http://www.aalvink.nl",
+        "type": "web",
+        "title": "Aalvink Vleesspecialiteiten",
+        "thumb": "img/portfolio/aalvink-thumb.jpeg",
+        "image": "img/portfolio/aalvink-pdp.jpeg",
+        "description": "E-commerce online shopfront for a Dutch company selling meat online.",
+        "client": "Votion",
+        "date": "2016"
+    },
+    {
+        "link": "http://kleenbeats.com",
+        "type": "web",
+        "title": "Website for Kleenbeats",
+        "thumb": "img/portfolio/kleenbeats-thumb.jpg",
+        "image": "img/portfolio/kleenbeats.jpg",
+        "description": "One page website for Kleenbeats, an Austrlian music production company (WIP)",
+        "client": "Kleenbeats",
+        "date": "2015"
+    },
+    {
+        "link": "http://scotch-soda.nl/",
+        "type": "web",
+        "title": "Scotch & Soda Homepage",
+        "thumb": "img/portfolio/scotch-thumb.png",
+        "image": "img/portfolio/scotch.png",
+        "description": "I built a responsive homepage for Scotch-Soda using a 12 column grid system.",
+        "client": "Scotch & Soda",
+        "date": "Aug 2014"
+    },
+    {
+        "link": "http://scs.co.uk/",
+        "type": "ad",
+        "title": "SCS - Midnight Madness",
+        "thumb": "img/portfolio/scs-thumb.png",
+        "image": "img/portfolio/scs.png",
+        "description": "24 hour promotional sale for SCS (Sofa Carpet Specialists - UK). They received 4 times the amount of orders within 24 hours.",
+        "client": "Sofa & Carpet Specialists UK",
+        "date": "Nov 2014"
+    },
+    {
+        "link": "http://news.ninemsn.com.au/",
+        "type": "web",
+        "title": "Ninemsn News - Leading News Portal in Australia",
+        "thumb": "img/portfolio/ninemsnnews.png",
+        "image": "img/portfolio/ninemsnnews.png",
+        "description": "I worked as part of the agile IT team at Ninemsn, and helped them build a brand new Sitecore website. This was the leading News portal in Australia, with 6 million hits on the 1st day of launch, and were handled successfully without issues. All development was 100% test-driven, and we used pair-programming techniques. Fun project.",
+        "client": "Ninemsn Australia",
+        "date": "Mar-Jun 2012"
+    },
+    {
+        "link": "http://m.funda.nl/",
+        "type": "mobile",
+        "title": "Funda Mobiel",
+        "thumb": "img/portfolio/fundamobiel-thumb.png",
+        "image": "img/portfolio/fundamobiel.png",
+        "description": "I worked as part of the mobile team at Funda, and made some improvements to the mobile website",
+        "client": "Funda",
+        "date": "Mar-Jun 2014"
+    }
+]
