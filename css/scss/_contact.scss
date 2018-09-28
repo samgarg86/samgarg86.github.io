@@ -1,0 +1,123 @@
+.contact-text {
+  text-transform: none;
+  line-height: 1.2;
+  margin-bottom: 20px;
+}
+
+.contact-method-icon {
+  width: 35px;
+  height: 35px;
+}
+
+.contact-grid {
+  display: flex;
+}
+
+.contact-details {
+
+  .contact-list {
+    list-style: none;
+    padding: 0;
+    padding: 30px;
+    background-color: $primary4;
+
+    h3 {
+      margin: 0 0 30px;
+    }
+  }
+
+  .contact-method {
+    font-size: 23px;
+    margin: 15px 0;
+    display: flex;
+    align-items: center;
+
+    a {
+      color: black;
+    }
+
+    .contact-method-icon {
+      margin-right: 10px;
+    }
+  }
+
+  .contact-alsoReachable {
+    font-size: 23px;
+    margin-top: 30px;
+    display: block;
+  }
+}
+
+
+/* Contact Form */
+
+.contactForm {
+  background-color: $primary4;
+  color: $primary2;
+  padding: 30px;
+
+  h3 {
+    margin: 0 0 20px 0;
+  }
+  .contact-submit-container {
+    margin-bottom: 22px;
+  }
+}
+.floating-label-form-group {
+  position: relative;
+  margin-bottom: 0;
+  padding-bottom: .5em;
+  border-bottom: 1px solid lighten($primary2, 10%);
+  input, textarea {
+    z-index: 1;
+    position: relative;
+    padding-right: 0;
+    padding-left: 0;
+    border: 0;
+    border-radius: 0;
+    font-size: 1.5em;
+    background: 0 0;
+    box-shadow: none !important;
+    resize: none;
+  }
+  label {
+    display: block;
+    z-index: 0;
+    position: relative;
+    top: 2em;
+    margin: 0;
+    font-size: .85em;
+    line-height: 1.764705882em;
+    vertical-align: middle;
+    vertical-align: baseline;
+    opacity: 0;
+    -webkit-transition: top .3s ease,opacity .3s ease;
+    -moz-transition: top .3s ease,opacity .3s ease;
+    -ms-transition: top .3s ease,opacity .3s ease;
+    transition: top .3s ease,opacity .3s ease;
+  }
+
+  .text-danger {
+    margin: 5px 0;
+    font-size: 14px;
+  }
+}
+
+.floating-label-form-group::not(:first-child) {
+  padding-left: 14px;
+  border-left: 1px solid #eee;
+}
+
+.floating-label-form-group-with-value label {
+  top: 0;
+  opacity: 1;
+}
+
+.floating-label-form-group-with-focus label {
+  color: #18bc9c;
+}
+
+form .row:first-child .floating-label-form-group {
+  border-top: 1px solid #eee;
+}
+

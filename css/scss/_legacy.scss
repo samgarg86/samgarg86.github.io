@@ -1,0 +1,48 @@
+/*!
+ * Start Bootstrap - Freelancer Bootstrap Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+
+
+.img-centered {
+	margin: 0 auto;
+}
+
+
+.scroll-top {
+	z-index: 1049;
+	position: fixed;
+	right: 2%;
+	bottom: 2%;
+	width: 50px;
+	height: 50px;
+	.btn {
+		width: 50px;
+		height: 50px;
+		border-radius: 100%;
+		font-size: 20px;
+		line-height: 28px;
+		&:focus {
+			outline: 0;
+		}
+	}
+}
+
+.img-me {
+	border: 8px solid whitesmoke;
+	width: 256px;
+	height: 256px;
+	overflow: hidden;
+	margin: 0 auto;
+	border-radius: 100%;
+}
+
+img {
+	max-width: 100%;
+}
+
+.fa-search-plus:before {
+	color: black;
+}
