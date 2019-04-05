@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65568b0a-0a7f-4d89-9c97-99ff5a0d1de0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/.idea/resume.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/Resume-SamGarg.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/css/print.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/css/resume.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/css/scss/_brands.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/css/scss/_legacy.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/css/scss/_nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/css/scss/_print.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/css/scss/_reset.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/css/scss/_resumeHeader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/css/scss/_skills.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/css/scss/_summary.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/css/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/css/scss/resume.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/css/theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/css/unused/_style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/css/unused/print.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/css/unused/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/css/unused/theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resume/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="65568b0a-0a7f-4d89-9c97-99ff5a0d1de0" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resume/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="307" column="65" selection-start-line="307" selection-start-column="65" selection-end-line="307" selection-end-column="65" />
+            <state relative-caret-position="397">
+              <caret line="71" selection-start-line="71" selection-end-line="74" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -99,6 +70,12 @@
               <item name="samgarg.me" type="b2602c69:ProjectViewProjectNode" />
               <item name="samgarg.me" type="462c0819:PsiDirectoryNode" />
               <item name="resume" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="samgarg.me" type="b2602c69:ProjectViewProjectNode" />
+              <item name="samgarg.me" type="462c0819:PsiDirectoryNode" />
+              <item name="resume" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -151,16 +128,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554459811903</updated>
-      <workItem from="1554459813234" duration="1186000" />
+      <workItem from="1554459813234" duration="1605000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1186000" />
+    <option name="totallyTimeSpent" value="1605000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-126" y="-1080" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -195,8 +171,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resume/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="307" column="65" selection-start-line="307" selection-start-column="65" selection-end-line="307" selection-end-column="65" />
+        <state relative-caret-position="397">
+          <caret line="71" selection-start-line="71" selection-end-line="74" selection-end-column="24" />
         </state>
       </provider>
     </entry>
