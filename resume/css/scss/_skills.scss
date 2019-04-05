@@ -1,5 +1,5 @@
 
-.skills {
+section.skills {
   .skill-name {
     background: #e8e8e8;
     color: #4c4b4b;
@@ -8,5 +8,7 @@
     font-size: 18px;
     margin: 2px 0;
     display: inline-block;
+    font-family: din-condensed, sans-serif;
+    text-transform: uppercase;
   }
 }
