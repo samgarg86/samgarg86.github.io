@@ -7,10 +7,15 @@
         -webkit-box-shadow: none;
         box-shadow: none;
         margin:  0;
-        width: 85%;
+        /*width: 85%;*/
     }
     #menu {
         height: 0 !important;
+        display: none !important;
+    }
+
+    .no-print, .no-print *
+    {
         display: none !important;
     }
 

@@ -20,6 +20,10 @@
     height: 0 !important;
     display: none !important;
   }
+  .no-print, .no-print *
+  {
+    display: none !important;
+  }
   .page-break {
     display: block;
     page-break-before: always;
