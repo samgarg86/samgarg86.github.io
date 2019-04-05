@@ -89,13 +89,13 @@
   .headline {
     display: none;
   }
-  .position .company-name, .education .school-name, .certification .certification-name, .patent .patent-title, .publication .publication-title {
-    //width: 500px;
-    font-size: 20px;
-    position: relative;
-    font-weight: bold;
-    //float: left;
-  }
+  //.position .company-name, .education .school-name, .certification .certification-name, .patent .patent-title, .publication .publication-title {
+  //  //width: 500px;
+  //  font-size: 20px;
+  //  position: relative;
+  //  font-weight: bold;
+  //  //float: left;
+  //}
   .position .job-summary {
     clear: both;
     padding-top: 5px;
@@ -111,12 +111,12 @@
     clear: both;
     padding-top: 5px;
   }
-  .position .title, .education .program, .certification .certificate-details, .patent .patent-details, .publication .publication-details {
-    font-size: 19px;
-    color: #999;
-    font-weight: normal;
-    clear: both;
-  }
+  //.position .title, .education .program, .certification .certificate-details, .patent .patent-details, .publication .publication-details {
+  //  font-size: 19px;
+  //  color: #999;
+  //  font-weight: normal;
+  //  clear: both;
+  //}
   .position .dates, .education .dates, .certification .dates, .patent .dates, .publication .dates {
     width: 233.2px;
     text-align: right;

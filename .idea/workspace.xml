@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65568b0a-0a7f-4d89-9c97-99ff5a0d1de0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/resume/css/scss/_latestupdates.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/css/print.css" beforeDir="false" afterPath="$PROJECT_DIR$/resume/css/print.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/Resume-SamGarg.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/resume/Resume-SamGarg.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resume/css/resume.css" beforeDir="false" afterPath="$PROJECT_DIR$/resume/css/resume.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/css/scss/_latestupdates.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/css/scss/_latestupdates.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resume/css/scss/_legacy.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/css/scss/_legacy.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/css/scss/_print.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/css/scss/print.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/css/scss/_skills.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/css/scss/_skills.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/css/scss/_summary.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/css/scss/_summary.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/css/scss/resume.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resume/css/scss/resume.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/css/theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/css/unused/_style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/css/unused/print.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/css/unused/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/css/unused/theme.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/resume/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +21,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resume/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="276" column="32" lean-forward="true" selection-start-line="276" selection-start-column="32" selection-end-line="276" selection-end-column="32" />
+            <state relative-caret-position="318">
+              <caret line="350" column="74" lean-forward="true" selection-start-line="350" selection-start-column="74" selection-end-line="350" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -40,10 +30,15 @@
       <file leaf-file-name="_latestupdates.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resume/css/scss/_latestupdates.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+            <state relative-caret-position="415">
+              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_nav.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resume/css/scss/_nav.scss">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="resume.css" pinned="false" current-in-tab="false">
@@ -81,8 +76,8 @@
       <file leaf-file-name="_legacy.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resume/css/scss/_legacy.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+            <state relative-caret-position="200">
+              <caret line="113" selection-start-line="113" selection-end-line="118" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -92,15 +87,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -124,6 +110,8 @@
       <find>outputResume</find>
       <find>experience</find>
       <find>#resume</find>
+      <find>school-name</find>
+      <find>.program</find>
       <find>20</find>
       <find>skills</find>
     </findStrings>
@@ -144,8 +132,8 @@
         <option value="$PROJECT_DIR$/resume/css/scss/_workex.scss" />
         <option value="$PROJECT_DIR$/resume/css/scss/_skills.scss" />
         <option value="$PROJECT_DIR$/resume/css/scss/resume.scss" />
-        <option value="$PROJECT_DIR$/resume/css/scss/_legacy.scss" />
         <option value="$PROJECT_DIR$/resume/css/scss/_summary.scss" />
+        <option value="$PROJECT_DIR$/resume/css/scss/_legacy.scss" />
         <option value="$PROJECT_DIR$/resume/index.html" />
         <option value="$PROJECT_DIR$/resume/css/scss/_latestupdates.scss" />
       </list>
@@ -254,12 +242,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554459811903</updated>
-      <workItem from="1554459813234" duration="6583000" />
+      <workItem from="1554459813234" duration="7478000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6583000" />
+    <option name="totallyTimeSpent" value="7478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-126" y="-1080" width="1920" height="1080" extended-state="0" />
@@ -316,9 +304,6 @@
           <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume/css/scss/_nav.scss">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -384,13 +369,6 @@
     <entry file="file://$PROJECT_DIR$/resume/css/scss/_reset.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/resume/css/scss/_legacy.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resume/css/scss/resume.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -405,17 +383,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resume/css/scss/_nav.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/css/scss/_legacy.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="113" selection-start-line="113" selection-end-line="118" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resume/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="276" column="32" lean-forward="true" selection-start-line="276" selection-start-column="32" selection-end-line="276" selection-end-column="32" />
+        <state relative-caret-position="318">
+          <caret line="350" column="74" lean-forward="true" selection-start-line="350" selection-start-column="74" selection-end-line="350" selection-end-column="74" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resume/css/scss/_latestupdates.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        <state relative-caret-position="415">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
         </state>
       </provider>
     </entry>

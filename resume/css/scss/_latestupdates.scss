@@ -30,3 +30,19 @@ section.educations {
         text-transform: uppercase;
     }
 }
+
+// Moved from legacy
+.position .company-name, .education .program, .certification .certification-name, .patent .patent-title, .publication .publication-title {
+  //width: 500px;
+  font-size: 20px;
+  position: relative;
+  font-weight: bold;
+  //float: left;
+}
+
+.position .title, .education .school-name, .certification .certificate-details, .patent .patent-details, .publication .publication-details {
+    font-size: 19px;
+    color: #999;
+    font-weight: normal;
+    clear: both;
+}
