@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65568b0a-0a7f-4d89-9c97-99ff5a0d1de0" name="Default" comment="Skill tags updates">
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+    <list default="true" id="65568b0a-0a7f-4d89-9c97-99ff5a0d1de0" name="Default" comment="Move resume to root">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resume-SamGarg.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Resume-SamGarg.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +54,9 @@
     &quot;accountId&quot;: &quot;5219cede-4d2d-463a-a939-34e12c090171&quot;
   }
 }</component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/old-site/package.json" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -93,6 +95,10 @@
       <recent name="$PROJECT_DIR$/resume" />
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/old-site" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
@@ -129,7 +135,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.26927.40" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.29188.71" />
       </set>
     </attachedChunks>
   </component>
@@ -149,7 +155,9 @@
       <workItem from="1571326713803" duration="37000" />
       <workItem from="1633337120413" duration="615000" />
       <workItem from="1787752243889" duration="2380000" />
-      <workItem from="1787832409172" duration="908000" />
+      <workItem from="1787832409172" duration="1292000" />
+      <workItem from="1787833714987" duration="369000" />
+      <workItem from="1787834151986" duration="1227000" />
     </task>
     <task id="LOCAL-00001" summary="Update to tailwind and some CV summary updates">
       <option name="closed" value="true" />
@@ -175,7 +183,23 @@
       <option name="project" value="LOCAL" />
       <updated>1787832880261</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Some spacing adjustments">
+      <option name="closed" value="true" />
+      <created>1787833343284</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1787833343284</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Move resume to root">
+      <option name="closed" value="true" />
+      <created>1787833558106</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1787833558106</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,9 +217,14 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Update to tailwind and some CV summary updates" />
     <MESSAGE value="Big fan of" />
     <MESSAGE value="Skill tags updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Skill tags updates" />
+    <MESSAGE value="Some spacing adjustments" />
+    <MESSAGE value="Move resume to root" />
+    <option name="LAST_COMMIT_MESSAGE" value="Move resume to root" />
+    <option name="NON_MODAL_COMMIT_POSTPONE_SLOW_CHECKS" value="false" />
   </component>
 </project>
