@@ -53,6 +53,9 @@
         }
 
         @media print {
+            body {
+                background: white !important;
+            }
             #resume {
                 box-shadow: none;
                 margin: 0;
@@ -62,10 +65,9 @@
             }
             .no-print { display: none !important; }
             .skill-tag {
-                background: transparent !important;
+                background: transparent;
                 border: 1px solid;
-                color: #000 !important;
-                /*color: #4b5563 !important;*/
+                color: #000;
             }
         }
     </style>
@@ -293,9 +295,6 @@
             <div class="text-lg text-gray-400 font-normal">Agile Australia</div>
         </div>
     </section>
-
-    <div class="h-5"></div>
-
 </article>
 
 <script>
