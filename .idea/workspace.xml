@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65568b0a-0a7f-4d89-9c97-99ff5a0d1de0" name="Default" comment="Move resume to root">
+    <list default="true" id="65568b0a-0a7f-4d89-9c97-99ff5a0d1de0" name="Default" comment="Some more last minute updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resume-SamGarg.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Resume-SamGarg.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,7 +156,7 @@
       <workItem from="1787752243889" duration="2380000" />
       <workItem from="1787832409172" duration="1292000" />
       <workItem from="1787833714987" duration="369000" />
-      <workItem from="1787834151986" duration="1227000" />
+      <workItem from="1787834151986" duration="2357000" />
     </task>
     <task id="LOCAL-00001" summary="Update to tailwind and some CV summary updates">
       <option name="closed" value="true" />
@@ -199,7 +198,39 @@
       <option name="project" value="LOCAL" />
       <updated>1787833558106</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="PDF">
+      <option name="closed" value="true" />
+      <created>1787835421076</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1787835421076</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Package.json">
+      <option name="closed" value="true" />
+      <created>1787835445558</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1787835445558</updated>
+    </task>
+    <task id="LOCAL-00008" summary="workspace.xml">
+      <option name="closed" value="true" />
+      <created>1787835459719</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1787835459719</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Some more last minute updates">
+      <option name="closed" value="true" />
+      <created>1787836426443</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1787836426443</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,7 +255,11 @@
     <MESSAGE value="Skill tags updates" />
     <MESSAGE value="Some spacing adjustments" />
     <MESSAGE value="Move resume to root" />
-    <option name="LAST_COMMIT_MESSAGE" value="Move resume to root" />
+    <MESSAGE value="PDF" />
+    <MESSAGE value="Package.json" />
+    <MESSAGE value="workspace.xml" />
+    <MESSAGE value="Some more last minute updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some more last minute updates" />
     <option name="NON_MODAL_COMMIT_POSTPONE_SLOW_CHECKS" value="false" />
   </component>
 </project>
