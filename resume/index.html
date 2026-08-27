@@ -48,6 +48,10 @@
             color: #000;
         }
 
+        .skill-tag {
+            @apply font-din uppercase bg-gray-200 text-gray-600 px-3 py-0.5 rounded;
+        }
+
         @media print {
             #resume {
                 box-shadow: none;
@@ -57,6 +61,11 @@
                 font-size: 16px;
             }
             .no-print { display: none !important; }
+            .skill-tag {
+                background: transparent !important;
+                border: 1px solid #9ca3af;
+                color: #4b5563 !important;
+            }
         }
     </style>
 </head>
@@ -96,14 +105,14 @@
     <!-- Skills -->
     <section class="mt-6 w-full">
         <h2 class="font-din uppercase text-3xl mt-5 mb-4">Technical Expertise</h2>
-        <div class="flex flex-wrap gap-1">
-            <span class="font-din uppercase bg-gray-200 text-gray-600 px-2.5 py-0.5 rounded text-lg">E-Commerce</span>
-            <span class="font-din uppercase bg-gray-200 text-gray-600 px-2.5 py-0.5 rounded text-lg">Composable/Headless Commerce</span>
-            <span class="font-din uppercase bg-gray-200 text-gray-600 px-2.5 py-0.5 rounded text-lg">CMS</span>
-            <span class="font-din uppercase bg-gray-200 text-gray-600 px-2.5 py-0.5 rounded text-lg">Contentful CMS</span>
-            <span class="font-din uppercase bg-gray-200 text-gray-600 px-2.5 py-0.5 rounded text-lg">Amplience</span>
-            <span class="font-din uppercase bg-gray-200 text-gray-600 px-2.5 py-0.5 rounded text-lg">VueJS | Nuxt</span>
-            <span class="font-din uppercase bg-gray-200 text-gray-600 px-2.5 py-0.5 rounded text-lg">React | Next</span>
+        <div class="flex flex-wrap gap-2">
+            <span class="skill-tag">E-Commerce</span>
+            <span class="skill-tag">Composable/Headless Commerce</span>
+            <span class="skill-tag">CMS</span>
+            <span class="skill-tag">Contentful CMS</span>
+            <span class="skill-tag">Amplience</span>
+            <span class="skill-tag">VueJS | Nuxt</span>
+            <span class="skill-tag">React | Next</span>
         </div>
     </section>
 
