@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65568b0a-0a7f-4d89-9c97-99ff5a0d1de0" name="Default" comment="Some more last minute updates">
+    <list default="true" id="65568b0a-0a7f-4d89-9c97-99ff5a0d1de0" name="Default" comment="Remove agent file from git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resume-SamGarg.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Resume-SamGarg.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,7 +158,7 @@
       <workItem from="1787832409172" duration="1292000" />
       <workItem from="1787833714987" duration="369000" />
       <workItem from="1787834151986" duration="4680000" />
-      <workItem from="1789741570028" duration="165000" />
+      <workItem from="1789741570028" duration="4637000" />
     </task>
     <task id="LOCAL-00001" summary="Update to tailwind and some CV summary updates">
       <option name="closed" value="true" />
@@ -239,7 +240,23 @@
       <option name="project" value="LOCAL" />
       <updated>1787836554020</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="CV Updates based on Kyle's comments">
+      <option name="closed" value="true" />
+      <created>1789741830731</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1789741830731</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Remove agent file from git">
+      <option name="closed" value="true" />
+      <created>1789757787213</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1789757787213</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,7 +285,9 @@
     <MESSAGE value="Package.json" />
     <MESSAGE value="workspace.xml" />
     <MESSAGE value="Some more last minute updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some more last minute updates" />
+    <MESSAGE value="CV Updates based on Kyle's comments" />
+    <MESSAGE value="Remove agent file from git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove agent file from git" />
     <option name="NON_MODAL_COMMIT_POSTPONE_SLOW_CHECKS" value="false" />
   </component>
 </project>

@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Sam Garg Resume</title>
 
-    <meta name="description" content="Sam Garg Resume - Front-End | E-Commerce developer">
+    <meta name="description" content="Sam Garg Resume - Composable Commerce & CMS Architect — React/Vue, AI-Accelerated Delivery">
     <meta name="keywords" content="Resume, Sam, Garg, Sam Garg, Sam Garg CV, Sam Garg Resume, Front End Developer, E-commerce developer, Freelance web developer">
     <link rel="icon" href="http://samgarg.me/favicon.ico" type="image/ico">
 
-    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
     <link rel="stylesheet" href="https://use.typekit.net/htm6ynp.css">
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
@@ -52,6 +52,14 @@
             @apply font-din uppercase bg-gray-200 text-gray-600 px-3 py-0.5 rounded text-base;
         }
 
+        .summary h3 {
+            @apply font-bold mb-2;
+        }
+
+        .summary p {
+            @apply mb-6;
+        }
+
         @media print {
             body {
                 background: white !important;
@@ -81,14 +89,15 @@
 <article id="resume" class="max-w-resume mx-auto px-5 py-5 sm:px-16 sm:py-16 shadow-resume bg-white relative">
 
     <!-- Header: name + contact info -->
-    <header class="flex justify-between items-start border-b border-gray-400">
+    <header class="flex justify-between items-center border-b border-gray-400">
         <h1 class="font-bold mr-4 mb-4 leading-tight">
             <span class="block text-4xl sm:text-5xl">Sam Garg</span>
+            <span class="block text-sm font-normal text-gray-500 mt-1">Composable Commerce & CMS Architect — React/Vue, AI-Accelerated Delivery</span>
         </h1>
 
         <address class="not-italic text-right text-sm sm:text-base shrink-0">
             <div class="mb-1">
-                <a href="https://www.linkedin.com/in/gargsam/" rel="nofollow" target="_blank" class="contact-link">linkedin.com/in/gargsam/</a>
+                <a href="https://www.linkedin.com/in/gargsam/" rel="nofollow" target="_blank" class="contact-link">linkedin.com/in/gargsam</a>
             </div>
             <div>
                 <a href="mailto:samgarg86@gmail.com" target="_blank" class="contact-link">samgarg86@gmail.com</a>
@@ -97,12 +106,21 @@
     </header>
 
     <!-- Summary -->
-    <section class="text-justify text-gray-900 text-base whitespace-pre-line mb-12">
-        Technical Architect with 15+ years of experience designing and building high-performance, user-focused digital experiences, with a strong background in Front-End Web Development using modern frameworks like React and Vue.
+    <section class="summary text-justify text-gray-900 text-base mb-12 pt-9">
+        <p>Thinking about going composable, but not sure it's worth the cost and complexity? Already committed to a CMS but need someone to design content models your authors will actually enjoy? Or just need a senior React/Vue developer who moves fast without creating a mess?</p>
+        <p>15+ years as an architect and hands-on developer on e-commerce projects for brands like Vans, The North Face, PUMA, Zermatt Matterhorn Tourism and Citizen Watches, across e-comm platforms, headless CMS (Contentful, Amplience) and React/Vue front-ends talking to them via APIs.</p>
 
-        Extensive experience in e-commerce, front-end architecture and working with a wide range of CMS platforms. Strong track record of leading technical development and delivering complex digital projects for international brands. Experienced working remotely with distributed teams, bridging the gap between design, development and business requirements..
+        <h3 class="font-bold">Architecture & Strategy</h3>
+        <p>Weighing composable vs your platform's built-in tools? I can help you evaluate whether it's worth it for your size and budget, not just implement whatever's trendy. That includes practical calls about where to store images (CMS, e-comm platform, or a dedicated DAM like Cloudinary), what actually belongs in a headless CMS vs your e-comm platform, and what a React/Next.js layer really costs to build and maintain.</>
 
-        Now accelerating with AI, directing Claude Code to execute against clearly scoped tasks, reviewing changes at the diff level to enforce architectural consistency and catch AI-introduced errors (inconsistent patterns, style drift, edge cases) before they reach production.
+        <h3 class="font-bold">CMS Content Modelling</h3>
+        <p>If the architecture is set and you need schemas designed: powerful enough for what marketing needs, simple enough that authors don't need a manual. Feature-rich under the hood, intuitive on the surface - not a cockpit of 1,000 buttons.</p>
+
+        <h3 class="font-bold">Hands-on delivery</h3>
+        <p>I still write, review and ship code myself. I use Claude Code and sub-agents to move fast, review, test and enforce standards across codebases. I personally verify what actually ships to production: architecture decisions, performance impact and coding standards.</p>
+
+        <h3 class="font-bold">Startup Mindset</h3>
+        <p>I've run my own ventures end-to-end, wearing every hat. I know what it's like with no one to hand a task to, so I ask the right questions, move with minimal direction, and take ownership. Comfortable owning the architecture conversation with stakeholders and being knee-deep in a POC the same afternoon.</p>
     </section>
 
     <!-- Skills -->
@@ -133,7 +151,7 @@
                 <ul class="pl-4 list-disc space-y-1">
                     <li>Helped architect the front-end of <a href="https://citizenwatch.com" target="_blank" class="text-black hover:opacity-70 transition-opacity underline">citizenwatch.com</a>.</li>
                     <li>Laid out the foundations of the integration between the React FE (PWA-KIT), Salesforce Commerce (SFCC) and Contentful CMS.</li>
-                    <li>Designed the CMS schema and content models for e-commerce content</li>
+                    <li>Designed the CMS schema and content models in Contentful</li>
                 </ul>
             </div>
         </div>
@@ -141,7 +159,7 @@
         <div class="mb-5 leading-normal">
             <header class="font-din uppercase">
                 <div class="text-xl font-bold">Generous</div>
-                <div class="text-lg text-gray-400 font-normal">Front End Architect</div>
+                <div class="text-lg text-gray-400 font-normal">Front End Engineer</div>
             </header>
             <div class="pt-1.5 text-sm">
                 <ul class="pl-4 list-disc space-y-1">
@@ -193,13 +211,7 @@
                 <div class="text-lg text-gray-400 font-normal">Senior Front-End | E-commerce Developer</div>
             </header>
             <div class="pt-1.5 text-sm">
-                <p class="mb-4">Bestseller is a Danish umbrella company with a range of over 20 brands including Jack &amp; Jones,
-                    Vero Moda and Only. They have 3000 branded chain stores across 70 countries.
-                    I was part of their Demandware E-commerce front-end team in Amsterdam.</p>
-                <ul class="pl-4 list-disc space-y-1">
-                    <li>Vero Moda website redesign.</li>
-                    <li>A new product detail page with a new image slider and image zoom for all of their 19 brands.</li>
-                </ul>
+                Part of Bestseller's Demandware e-commerce team, delivering front-end for the group's 19 brands (including Jack & Jones, Vero Moda, Only) across 3,000+ stores in 70 countries. Led the Vero Moda website redesign and contributed to "Next Generation User Journey," a full front-end rebuild of all brand sites using modern web components and TDD.
             </div>
         </div>
 
@@ -228,12 +240,7 @@
                 <div class="text-lg text-gray-400 font-normal">Front-End | E-Commerce Lead Developer</div>
             </header>
             <div class="pt-1.5 text-sm">
-                <p class="mb-4">Lostboys is the oldest digital agency in Amsterdam. Tight deadlines, continuous integration and a fast changing environment is what we lived and bred.</p>
-                <ul class="pl-4 list-disc space-y-1">
-                    <li>New fluid mobile-first Pinterest style homepage for Scotch &amp; Soda (a fashion label in Amsterdam).</li>
-                    <li>Online marketing and promotional campaigns for several clients, built in HTML5, JS and CSS3</li>
-                    <li>Website and online store for Vertu global (british luxury mobile phones). Multi-lingual and a pixel perfect classy UI</li>
-                </ul>
+                Led front-end development for UK/EU retail clients (SCS, Vertu Global, Scotch & Soda) in a fast-paced agency environment. Built promotional campaigns for SCS that drove up to 400% sales growth over Christmas/New Year 2015
             </div>
         </div>
 
@@ -286,10 +293,10 @@
             <div class="text-lg text-gray-400 font-normal">Amplience</div>
         </div>
 
-        <div class="mb-5 leading-normal font-din uppercase">
-            <div class="text-xl font-bold">Coremedia Certified Front End Developer</div>
-            <div class="text-lg text-gray-400 font-normal">Coremedia</div>
-        </div>
+<!--        <div class="mb-5 leading-normal font-din uppercase">-->
+<!--            <div class="text-xl font-bold">Coremedia Certified Front End Developer</div>-->
+<!--            <div class="text-lg text-gray-400 font-normal">Coremedia</div>-->
+<!--        </div>-->
 
         <div class="mb-5 leading-normal font-din uppercase">
             <div class="text-xl font-bold">Salesforce Commerce / Demandware Certified Developer</div>
@@ -301,10 +308,10 @@
             <div class="text-lg text-gray-400 font-normal">University of Technology, Sydney</div>
         </div>
 
-        <div class="mb-5 leading-normal font-din uppercase">
-            <div class="text-xl font-bold">Agile Project Management</div>
-            <div class="text-lg text-gray-400 font-normal">Agile Australia</div>
-        </div>
+<!--        <div class="mb-5 leading-normal font-din uppercase">-->
+<!--            <div class="text-xl font-bold">Agile Project Management</div>-->
+<!--            <div class="text-lg text-gray-400 font-normal">Agile Australia</div>-->
+<!--        </div>-->
     </section>
 </article>
 
