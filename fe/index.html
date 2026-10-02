@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sam Garg — Senior Front-End Developer</title>
+
+    <meta name="description" content="Sam Garg Resume - Senior React/Vue Front-End Developer">
+    <meta name="keywords" content="Resume, Sam Garg, React Developer, Vue Developer, Front End Developer, E-commerce, Headless CMS">
+    <link rel="icon" href="http://samgarg.me/favicon.ico" type="image/ico">
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.typekit.net/htm6ynp.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Lato', 'Georgia', 'Times New Roman', 'Times', 'serif'],
+                    },
+                    maxWidth: {
+                        resume: '900px',
+                    },
+                    boxShadow: {
+                        resume: '1px 1px 10px 6px #ddd',
+                    },
+                }
+            }
+        }
+    </script>
+    <style type="text/tailwindcss">
+        .font-din {
+            font-family: din-condensed, sans-serif;
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .contact-link {
+            color: #999;
+            text-decoration: none;
+            border-bottom: 1px dotted #999;
+        }
+        .contact-link:hover {
+            border-bottom-style: solid;
+            color: #000;
+        }
+
+        .skill-tag {
+            @apply font-din uppercase bg-gray-200 text-gray-600 px-3 py-0.5 rounded text-base;
+        }
+
+        .summary p {
+            @apply mb-3;
+        }
+
+        @media print {
+            body {
+                background: white !important;
+            }
+            #resume {
+                box-shadow: none;
+                margin: 0;
+                width: 1024px;
+                padding: 0;
+                font-size: 16px;
+            }
+            .no-print { display: none !important; }
+            .skill-tag {
+                background: transparent;
+                border: 1px solid;
+                color: #000;
+            }
+        }
+    </style>
+</head>
+<body class="bg-gray-100 font-sans text-base">
+
+<nav class="no-print my-5 text-center">
+    <a href="CV-SamGarg.pdf" class="text-gray-500 hover:text-gray-900 transition-colors underline">Download PDF</a>
+</nav>
+
+<article id="resume" class="max-w-resume mx-auto px-5 py-5 sm:px-16 sm:py-16 shadow-resume bg-white relative">
+
+    <!-- Header: name + contact info -->
+    <header class="flex justify-between items-center border-b border-gray-400">
+        <h1 class="font-bold mr-4 mb-4 leading-tight">
+            <span class="block text-4xl sm:text-5xl">Sam Garg</span>
+            <span class="block text-sm font-normal text-gray-500 mt-1">Senior React/Vue Developer — E-Commerce & Headless CMS</span>
+        </h1>
+
+        <address class="not-italic text-right text-sm sm:text-base shrink-0">
+            <div class="mb-1">
+                <a href="https://www.linkedin.com/in/gargsam/" rel="nofollow" target="_blank" class="contact-link">linkedin.com/in/gargsam/</a>
+            </div>
+            <div>
+                <a href="mailto:samgarg86@gmail.com" target="_blank" class="contact-link">samgarg86@gmail.com</a>
+            </div>
+        </address>
+    </header>
+
+    <!-- Summary -->
+    <section class="summary text-justify text-gray-900 text-base mb-12 mt-6">
+<!--        <p>Looking for a senior React/Vue developer who moves fast without creating a mess?</p>-->
+<!--        <p>15+ years across enterprise web projects for brands like Vans, The North Face, PUMA and Citizen Watches. I've worn several hats — front-end developer, technical architect, tech lead, CMS specialist — but at the core of it all, the thing I enjoy most is writing code: building responsive, accessible UIs with React and Vue.</p>-->
+<!--        <p>Strong background in headless CMS integrations and customization (Contentful, Amplience) and implementing content models that are simple enough for authors and powerful enough for marketing.</p>-->
+
+        <p>Senior front-end developer with 15+ years building production React/Next.js and Vue/Nuxt applications. Strong background in e-commerce front-ends and headless CMS integrations (Contentful, Amplience), gained across enterprise projects for brands like Vans, The North Face, PUMA and Citizen Watches.</p>
+        <p>I write clean, well-tested, maintainable UI code and enjoy working closely with designers and other developers to ship polished user experiences. I use Claude Code and sub-agents to move fast, reviewing every diff myself before it ships.</p>
+        <p>Outside of client work I build and maintain my own Nuxt 3 site end-to-end (<a href="https://saltylens.art" target="_blank" class="text-black hover:opacity-70 transition-opacity underline">saltylens.art</a>) - front-end, marketing pages, SEO and deployment. Also been experimenting with Shopify's headless Hydrogen framework as a personal learning project.</p>
+    </section>
+
+    <!-- Skills -->
+    <section class="w-full mb-12">
+        <h2 class="font-din uppercase text-3xl mt-5 mb-4">Technical Expertise</h2>
+        <div class="flex flex-wrap gap-2">
+            <span class="skill-tag">React | Next</span>
+            <span class="skill-tag">VueJS | Nuxt</span>
+            <span class="skill-tag">E-Commerce</span>
+            <span class="skill-tag">Composable/Headless Commerce</span>
+            <span class="skill-tag">Content Management Systems</span>
+            <span class="skill-tag">Contentful CMS</span>
+            <span class="skill-tag">Amplience CMS</span>
+            <span class="skill-tag">Restful APIs</span>
+        </div>
+    </section>
+
+    <!-- Work Experience -->
+    <section class="w-full mb-12">
+        <h2 class="font-din uppercase text-3xl mt-5 mb-4">Work Experience</h2>
+
+        <div class="mb-5 leading-normal">
+            <header class="font-din uppercase">
+                <div class="text-xl font-bold">Citizen Watches</div>
+                <div class="text-lg text-gray-400 font-normal">Technical Architect</div>
+            </header>
+            <div class="pt-1.5 text-sm">
+                <ul class="pl-4 list-disc space-y-1">
+                    <li>Architected and built front-end features for <a href="https://citizenwatch.com" target="_blank" class="text-black hover:opacity-70 transition-opacity underline">citizenwatch.com</a> using React (PWA Kit), integrated with Salesforce Commerce Cloud and Contentful CMS.</li>
+                    <li>Implemented Contentful content models and schemas</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="mb-5 leading-normal">
+            <header class="font-din uppercase">
+                <div class="text-xl font-bold">Generous</div>
+                <div class="text-lg text-gray-400 font-normal">Front End Engineer</div>
+            </header>
+            <div class="pt-1.5 text-sm">
+                <ul class="pl-4 list-disc space-y-1">
+                    <li>Built the front-end for an AI-assisted agentic gifting platform.</li>
+                    <li>Shipped the AI chat interface, calendar views and new features using AI-assisted ('vibe coding') workflows to move fast.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="mb-5 leading-normal">
+            <header class="font-din uppercase">
+                <div class="text-xl font-bold">
+                    <a href="https://astoundcommerce.com" target="_blank" class="text-black no-underline hover:opacity-70 transition-opacity">Astound Digital</a>
+                </div>
+                <div class="text-lg text-gray-400 font-normal">Technical Architect | Front End | CMS Tech Lead</div>
+            </header>
+            <div class="pt-1.5 text-sm">
+                <ul class="pl-4 list-disc space-y-1">
+                    <li>Hands-on front-end developer building e-commerce storefronts with React and Vue for global brands including Vans, The North Face, Columbia Sportswear, Timberland, PUMA, Life Fitness and Zermatt Matterhorn Tourism.</li>
+                    <li>Integrations between headless React/Vue front-ends with SFCC and enterprise CMS platforms (Contentful, Amplience).</li>
+                    <li>Built and implemented CMS content models and schemas for e-commerce content across several projects.</li>
+                    <li>Contributed to an SFCC accelerator built with React PWA Kit and Agnostic storefront using Vue</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="mb-5 leading-normal">
+            <header class="font-din uppercase">
+                <div class="text-xl font-bold">
+                    <a href="http://bestseller.com" target="_blank" class="text-black no-underline hover:opacity-70 transition-opacity">Bestseller</a>
+                </div>
+                <div class="text-lg text-gray-400 font-normal">Senior Front-End | E-Commerce Developer &nbsp;|&nbsp; Amsterdam</div>
+            </header>
+            <div class="pt-1.5 text-sm">
+                <ul class="pl-4 list-disc space-y-1">
+                    <li>Delivered front-end for 19 brands (including Jack &amp; Jones, Vero Moda, Only) across 3,000+ stores in 70 countries, on Salesforce Commerce Cloud (Demandware).</li>
+                    <li>Built the Vero Moda website redesign.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="mb-5 leading-normal">
+            <header class="font-din uppercase">
+                <div class="text-xl font-bold">
+                    <a href="http://www.digitaslbi.com/nl/" target="_blank" class="text-black no-underline hover:opacity-70 transition-opacity">DigitasLBi (Lostboys)</a>
+                </div>
+                <div class="text-lg text-gray-400 font-normal">Front-End | E-Commerce Lead Developer &nbsp;|&nbsp; Amsterdam</div>
+            </header>
+            <div class="pt-1.5 text-sm">
+                <ul class="pl-4 list-disc space-y-1">
+                    <li>Built front-end features for UK/EU retail clients (SCS, Vertu Global, Scotch &amp; Soda) in a fast-paced agency environment.</li>
+                    <li>Built promotional campaigns for SCS that drove up to 400% sales growth over Christmas/New Year 2015.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="mb-5 leading-normal">
+            <header class="font-din uppercase">
+                <div class="text-xl font-bold">
+                    <a href="http://www.funda.nl/" target="_blank" class="text-black no-underline hover:opacity-70 transition-opacity">Funda</a>
+                </div>
+                <div class="text-lg text-gray-400 font-normal">Full Stack Web Developer &nbsp;|&nbsp; Amsterdam</div>
+            </header>
+            <div class="pt-1.5 text-sm">
+                <ul class="pl-4 list-disc space-y-1">
+                    <li>Built HTML5, CSS and JS mobile web-views used across different apps and devices, for the largest online real estate company in the Netherlands (funda.nl, ~8M hits/day).</li>
+                    <li>Developed and maintained the mobile website m.funda.nl.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="mb-5 leading-normal">
+            <header class="font-din uppercase">
+                <div class="text-xl font-bold">
+                    <a href="http://ninemsn.com.au" target="_blank" class="text-black no-underline hover:opacity-70 transition-opacity">NineMSN (Microsoft MSN / Channel 9)</a>
+                </div>
+                <div class="text-lg text-gray-400 font-normal">Full Stack Lead Web Developer &nbsp;|&nbsp; Sydney</div>
+            </header>
+            <div class="pt-1.5 text-sm">
+                <ul class="pl-4 list-disc space-y-1">
+                    <li>Built features for <a href="http://news.ninemsn.com.au" target="_blank" class="text-black hover:opacity-70 transition-opacity">news.ninemsn.com.au</a>, the leading news portal of Australia, working in scrum teams.</li>
+                    <li>Built online marketing campaigns for several NineMSN clients.</li>
+                    <li>Built the London Olympics 2012 Gamification Campaign, where users scored points by sharing articles and earned badges.</li>
+                    <li>Participated in company-wide Hack Days (Hackathons) for 100+ developers, designers and data analysts.</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Education & Certifications -->
+    <section class="w-full">
+        <h2 class="font-din uppercase text-3xl mt-5 mb-4">Education &amp; Certifications</h2>
+
+        <div class="mb-5 leading-normal font-din uppercase">
+            <div class="text-xl font-bold">Contentful CMS Developer and Content Modeling Course</div>
+            <div class="text-lg text-gray-400 font-normal">Contentful</div>
+        </div>
+
+        <div class="mb-5 leading-normal font-din uppercase">
+            <div class="text-xl font-bold">Amplience Partner Foundations and FE Developer Training</div>
+            <div class="text-lg text-gray-400 font-normal">Amplience</div>
+        </div>
+
+<!--        <div class="mb-5 leading-normal font-din uppercase">-->
+<!--            <div class="text-xl font-bold">Coremedia Certified Front End Developer</div>-->
+<!--            <div class="text-lg text-gray-400 font-normal">Coremedia</div>-->
+<!--        </div>-->
+
+<!--        <div class="mb-5 leading-normal font-din uppercase">-->
+<!--            <div class="text-xl font-bold">Salesforce Commerce / Demandware Certified Developer</div>-->
+<!--            <div class="text-lg text-gray-400 font-normal">Salesforce Commerce</div>-->
+<!--        </div>-->
+
+        <div class="mb-5 leading-normal font-din uppercase">
+            <div class="text-xl font-bold">Bachelor of Engineering, Software</div>
+            <div class="text-lg text-gray-400 font-normal">University of Technology, Sydney</div>
+        </div>
+
+        <div class="mb-5 leading-normal font-din uppercase">
+            <div class="text-xl font-bold">Agile Project Management</div>
+            <div class="text-lg text-gray-400 font-normal">Agile Australia</div>
+        </div>
+    </section>
+</article>
+
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-51438230-1', 'samgarg.me');
+    ga('send', 'pageview');
+</script>
+
+</body>
+</html>
