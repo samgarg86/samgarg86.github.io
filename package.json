@@ -6,6 +6,6 @@
     "pdf": "node scripts/generate-pdf.js"
   },
   "dependencies": {
-    "puppeteer": "^24.15.0"
+    "puppeteer": "^25.16.0"
   }
 }
