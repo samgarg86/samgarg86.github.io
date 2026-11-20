@@ -1,0 +1,13 @@
+{
+  "extends": "technical-architect",
+  "title": "Sam Garg — Frontend Technical Architect",
+  "headline": "Frontend Technical Architect — Headless Commerce, React/Next.js",
+  "summary": [
+    { "p": "15+ years architecting and building e-commerce front-ends for brands like Vans, The North Face, PUMA and Citizen Watches. Most recently the React/PWA Kit front-end architecture for a headless commerce platform on Salesforce Commerce Cloud and Contentful." },
+    { "h": "Architecture" },
+    { "p": "I make the composable-vs-built-in call based on size and budget, then design the front-end layer, API boundaries and content models to match." },
+    { "h": "Hands-on Delivery" },
+    { "p": "I still write, review and ship code myself, using Claude Code to move fast while keeping standards, performance and architecture under my own review." }
+  ],
+  "skills": ["React | Next", "Headless/Composable Commerce", "Salesforce Commerce Cloud", "PWA Kit", "Contentful CMS", "Restful APIs", "Technical Architecture"]
+}

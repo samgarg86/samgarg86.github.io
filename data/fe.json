@@ -1,0 +1,120 @@
+{
+  "html": "fe/index.html",
+  "pdf": "fe/CV-SamGarg.pdf",
+  "title": "Sam Garg — Senior Front-End Developer",
+  "description": "Sam Garg Resume - Senior React/Vue Front-End Developer",
+  "keywords": "Resume, Sam Garg, React Developer, Vue Developer, Front End Developer, E-commerce, Headless CMS",
+  "headline": "Senior React/Vue Developer — E-Commerce &amp; Headless CMS",
+  "linkedin": {
+    "url": "https://www.linkedin.com/in/gargsam/",
+    "text": "linkedin.com/in/gargsam/"
+  },
+  "email": "samgarg86@gmail.com",
+  "compact": true,
+  "summary": [
+    {
+      "p": "Senior front-end developer with 15+ years building production React/Next.js and Vue/Nuxt applications. Strong background in e-commerce front-ends and headless CMS integrations (Contentful, Amplience), gained across enterprise projects for brands like Vans, The North Face, PUMA and Citizen Watches."
+    },
+    {
+      "p": "I write clean, well-tested, maintainable UI code and enjoy working closely with designers and other developers to ship polished user experiences. I use Claude Code and sub-agents to move fast, reviewing every diff myself before it ships."
+    },
+    {
+      "p": "Outside of client work I build and maintain my own Nuxt 3 site end-to-end (<a href=\"https://saltylens.art\" target=\"_blank\" class=\"text-black hover:opacity-70 transition-opacity underline\">saltylens.art</a>) - front-end, marketing pages, SEO and deployment. Also been experimenting with Shopify's headless Hydrogen framework as a personal learning project."
+    }
+  ],
+  "skills": [
+    "React | Next",
+    "VueJS | Nuxt",
+    "E-Commerce",
+    "Composable/Headless Commerce",
+    "Content Management Systems",
+    "Contentful CMS",
+    "Amplience CMS",
+    "Restful APIs"
+  ],
+  "experience": [
+    {
+      "company": "Citizen Watches",
+      "role": "Front-End Technical Architect",
+      "bullets": [
+        "Architected and built front-end features for <a href=\"https://citizenwatch.com\" target=\"_blank\" class=\"text-black hover:opacity-70 transition-opacity underline\">citizenwatch.com</a> using React (PWA Kit), integrated with Salesforce Commerce Cloud and Contentful CMS.",
+        "Implemented Contentful content models and schemas"
+      ]
+    },
+    {
+      "company": "Generous",
+      "role": "Front End Engineer",
+      "bullets": [
+        "Built the front-end for an AI-assisted agentic gifting platform.",
+        "Shipped the AI chat interface, calendar views and new features using AI-assisted ('vibe coding') workflows to move fast."
+      ]
+    },
+    {
+      "company": "Astound Digital",
+      "url": "https://astoundcommerce.com",
+      "role": "Technical Architect | Front End | CMS Tech Lead",
+      "bullets": [
+        "Hands-on front-end developer building e-commerce storefronts with React and Vue for global brands including Vans, The North Face, Columbia Sportswear, Timberland, PUMA, Life Fitness and Zermatt Matterhorn Tourism.",
+        "Integrations between headless React/Vue front-ends with SFCC and enterprise CMS platforms (Contentful, Amplience).",
+        "Built and implemented CMS content models and schemas for e-commerce content across several projects.",
+        "Contributed to an SFCC accelerator built with React PWA Kit and Agnostic storefront using Vue"
+      ]
+    },
+    {
+      "company": "Bestseller",
+      "url": "http://bestseller.com",
+      "role": "Senior Front-End | E-Commerce Developer &nbsp;|&nbsp; Amsterdam",
+      "bullets": [
+        "Delivered front-end for 19 brands (including Jack &amp; Jones, Vero Moda, Only) across 3,000+ stores in 70 countries, on Salesforce Commerce Cloud (Demandware).",
+        "Built the Vero Moda website redesign."
+      ]
+    },
+    {
+      "company": "DigitasLBi (Lostboys)",
+      "url": "http://www.digitaslbi.com/nl/",
+      "role": "Front-End | E-Commerce Lead Developer &nbsp;|&nbsp; Amsterdam",
+      "bullets": [
+        "Built front-end features for UK/EU retail clients (SCS, Vertu Global, Scotch &amp; Soda) in a fast-paced agency environment.",
+        "Built promotional campaigns for SCS that drove up to 400% sales growth over Christmas/New Year 2015."
+      ]
+    },
+    {
+      "company": "Funda",
+      "url": "http://www.funda.nl/",
+      "role": "Full Stack Web Developer &nbsp;|&nbsp; Amsterdam",
+      "bullets": [
+        "Built HTML5, CSS and JS mobile web-views used across different apps and devices, for the largest online real estate company in the Netherlands (funda.nl, ~8M hits/day).",
+        "Developed and maintained the mobile website m.funda.nl."
+      ]
+    },
+    {
+      "company": "NineMSN (Microsoft MSN / Channel 9)",
+      "url": "http://ninemsn.com.au",
+      "role": "Full Stack Lead Web Developer &nbsp;|&nbsp; Sydney",
+      "bullets": [
+        "Built features for <a href=\"http://news.ninemsn.com.au\" target=\"_blank\" class=\"text-black hover:opacity-70 transition-opacity\">news.ninemsn.com.au</a>, the leading news portal of Australia, working in scrum teams.",
+        "Built online marketing campaigns for several NineMSN clients.",
+        "Built the London Olympics 2012 Gamification Campaign, where users scored points by sharing articles and earned badges.",
+        "Participated in company-wide Hack Days (Hackathons) for 100+ developers, designers and data analysts."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Contentful CMS Developer and Content Modeling Course",
+      "org": "Contentful"
+    },
+    {
+      "title": "Amplience Partner Foundations and FE Developer Training",
+      "org": "Amplience"
+    },
+    {
+      "title": "Bachelor of Engineering, Software",
+      "org": "University of Technology, Sydney"
+    },
+    {
+      "title": "Agile Project Management",
+      "org": "Agile Australia"
+    }
+  ]
+}

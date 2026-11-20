@@ -1,0 +1,139 @@
+{
+  "html": "index.html",
+  "pdf": "Resume-SamGarg.pdf",
+  "title": "Sam Garg Resume",
+  "description": "Sam Garg Resume - Composable Commerce & CMS Architect — React/Vue, AI-Accelerated Delivery",
+  "keywords": "Resume, Sam, Garg, Sam Garg, Sam Garg CV, Sam Garg Resume, Front End Developer, E-commerce developer, Freelance web developer",
+  "headline": "Composable Commerce &amp; CMS Architect — React/Vue, AI-Accelerated Delivery",
+  "linkedin": {
+    "url": "https://www.linkedin.com/in/gargsam/",
+    "text": "linkedin.com/in/gargsam"
+  },
+  "email": "samgarg86@gmail.com",
+  "compact": false,
+  "summary": [
+    {
+      "p": "Thinking about going composable, but not sure it's worth the cost and complexity? Already committed to a CMS but need someone to design content models your authors will actually enjoy? Or just need a senior React/Vue developer who moves fast without creating a mess?"
+    },
+    {
+      "p": "15+ years as an architect and hands-on developer on e-commerce projects for brands like Vans, The North Face, PUMA, Zermatt Matterhorn Tourism and Citizen Watches, across e-comm platforms, headless CMS (Contentful, Amplience) and React/Vue front-ends talking to them via APIs."
+    },
+    {
+      "h": "Architecture &amp; Strategy"
+    },
+    {
+      "p": "Weighing composable vs your platform's built-in tools? I can help you evaluate whether it's worth it for your size and budget, not just implement whatever's trendy. That includes practical calls about where to store images (CMS, e-comm platform, or a dedicated DAM like Cloudinary), what actually belongs in a headless CMS vs your e-comm platform, and what a React/Next.js layer really costs to build and maintain."
+    },
+    {
+      "h": "CMS Content Modelling"
+    },
+    {
+      "p": "If the architecture is set and you need schemas designed: powerful enough for what marketing needs, simple enough that authors don't need a manual. Feature-rich under the hood, intuitive on the surface - not a cockpit of 1,000 buttons."
+    },
+    {
+      "h": "Hands-on Delivery"
+    },
+    {
+      "p": "I still write, review and ship code myself. I use Claude Code and sub-agents to move fast, review, test and enforce standards across codebases. I personally verify what actually ships to production: architecture decisions, performance impact and coding standards."
+    },
+    {
+      "h": "Startup Mindset"
+    },
+    {
+      "p": "I've run my own ventures end-to-end, wearing every hat. I know what it's like with no one to hand a task to, so I ask the right questions, move with minimal direction, and take ownership. Comfortable owning the architecture conversation with stakeholders and being knee-deep in a POC the same afternoon."
+    }
+  ],
+  "skills": [
+    "React | Next",
+    "VueJS | Nuxt",
+    "E-Commerce",
+    "Composable/Headless Commerce",
+    "Content Management Systems",
+    "Contentful CMS",
+    "Amplience CMS",
+    "Restful APIs"
+  ],
+  "experience": [
+    {
+      "company": "Citizen Watches",
+      "role": "Technical Architect",
+      "bullets": [
+        "Helped architect the front-end of <a href=\"https://citizenwatch.com\" target=\"_blank\" class=\"text-black hover:opacity-70 transition-opacity underline\">citizenwatch.com</a>.",
+        "Laid out the foundations of the integration between the React FE (PWA-KIT), Salesforce Commerce (SFCC) and Contentful CMS.",
+        "Designed the CMS schema and content models in Contentful"
+      ]
+    },
+    {
+      "company": "Generous",
+      "role": "Front End Engineer",
+      "bullets": [
+        "Helped shape the front-end architecture of an AI-assisted agentic gifting platform.",
+        "Vibe coded the AI chat interface, calendar views and new features."
+      ]
+    },
+    {
+      "company": "Astound Digital",
+      "url": "https://astoundcommerce.com",
+      "role": "Technical Architect | Front End | CMS Tech Lead",
+      "bullets": [
+        "Technical Architect across major international brands including Columbia Sportswear, Timberland and Zermatt Matterhorn Tourism.",
+        "Architected composable e-commerce solutions integrating React/Vue, Salesforce Commerce Cloud and enterprise CMS platforms.",
+        "Designed the CMS schema and content models for e-commerce related content on several projects",
+        "Led the front-end development of global e-commerce storefronts for brands including Vans, The North Face, Life Fitness, Columbia Sportswear and PUMA",
+        "Contributed to headless/composable commerce solutions, including an SFCC accelerator built with React PWA Kit."
+      ]
+    },
+    {
+      "company": "Bestseller, Amsterdam",
+      "url": "http://bestseller.com",
+      "role": "Senior Front-End | E-commerce Developer",
+      "text": "Part of Bestseller's Demandware e-commerce team, delivering front-end for the group's 19 brands (including Jack &amp; Jones, Vero Moda, Only) across 3,000+ stores in 70 countries. Led the Vero Moda website redesign and contributed to \"Next Generation User Journey,\" a full front-end rebuild of all brand sites using modern web components and TDD."
+    },
+    {
+      "company": "DigitasLBi (Lostboys), Amsterdam",
+      "url": "http://www.digitaslbi.com/nl/",
+      "role": "Front-End | E-Commerce Lead Developer",
+      "text": "Led front-end development for UK/EU retail clients (SCS, Vertu Global, Scotch &amp; Soda) in a fast-paced agency environment. Built promotional campaigns for SCS that drove up to 400% sales growth over Christmas/New Year 2015"
+    },
+    {
+      "company": "Funda, Amsterdam",
+      "url": "http://www.funda.nl/",
+      "role": "Full Stack Web Developer",
+      "intro": "Funda is the largest online real estate company in Netherlands. funda.nl gets about 8 million hits a day. They have a fast-paced Agile environment with an interesting mix of technologies, mostly Microsoft based.",
+      "bullets": [
+        "HTML5, CSS and JS for mobile web-views used across different apps on different devices.",
+        "Develop and maintain mobile website m.funda.nl"
+      ]
+    },
+    {
+      "company": "NineMSN (Microsoft MSN / Channel 9), Sydney",
+      "url": "http://ninemsn.com.au",
+      "role": "Full Stack Lead Web Developer",
+      "intro": "Coordinating and developing, conducting daily stand-ups, mentoring fellow developers and liaising with clients and management. I worked in scrum teams building many projects:",
+      "bullets": [
+        "Re-design of the leading news portal of Australia — <a href=\"http://news.ninemsn.com.au\" target=\"_blank\" class=\"text-black hover:opacity-70 transition-opacity\">news.ninemsn.com.au</a>",
+        "Online marketing campaigns for several NineMSN clients",
+        "London Olympics 2012 Gamification Campaign — users score points by sharing articles and are awarded badges.",
+        "Organised company wide Hack days (Hackathon) for 100+ developers, designers and data analysts."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Contentful CMS Developer and Content Modeling Course",
+      "org": "Contentful"
+    },
+    {
+      "title": "Amplience Partner Foundations and FE Developer Training",
+      "org": "Amplience"
+    },
+    {
+      "title": "Salesforce Commerce / Demandware Certified Developer",
+      "org": "Salesforce Commerce"
+    },
+    {
+      "title": "Bachelor of Engineering, Software",
+      "org": "University of Technology, Sydney"
+    }
+  ]
+}

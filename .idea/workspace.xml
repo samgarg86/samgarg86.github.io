@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65568b0a-0a7f-4d89-9c97-99ff5a0d1de0" name="Default" comment="FE CV">
+    <list default="true" id="65568b0a-0a7f-4d89-9c97-99ff5a0d1de0" name="Default" comment="Updated role at Citizen">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fe/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/fe/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/generate-pdf.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/generate-pdf.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +160,10 @@
       <workItem from="1787832409172" duration="1292000" />
       <workItem from="1787833714987" duration="369000" />
       <workItem from="1787834151986" duration="4680000" />
-      <workItem from="1789741570028" duration="11412000" />
+      <workItem from="1789741570028" duration="13212000" />
+      <workItem from="1791387851847" duration="603000" />
+      <workItem from="1793104194527" duration="9000" />
+      <workItem from="1795201942031" duration="1407000" />
     </task>
     <task id="LOCAL-00001" summary="Update to tailwind and some CV summary updates">
       <option name="closed" value="true" />
@@ -279,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790935040618</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Updated role at Citizen">
+      <option name="closed" value="true" />
+      <created>1790935165051</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1790935165051</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,7 +327,8 @@
     <MESSAGE value="Updated headline and description" />
     <MESSAGE value="Typo fix" />
     <MESSAGE value="FE CV" />
-    <option name="LAST_COMMIT_MESSAGE" value="FE CV" />
+    <MESSAGE value="Updated role at Citizen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated role at Citizen" />
     <option name="NON_MODAL_COMMIT_POSTPONE_SLOW_CHECKS" value="false" />
   </component>
 </project>
